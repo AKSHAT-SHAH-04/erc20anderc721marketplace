@@ -1,0 +1,14 @@
+{
+  "name": "nft_marketplace",
+  "version": "1.0.0",
+  "description": "NFT Marketplace to trade ERC721 tokens using a custom ERC20 token",
+  "main": "truffle-config.js",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akshat Shah",
+  "license": "ISC"
+}
