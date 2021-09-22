@@ -1,4 +1,4 @@
-const CardToken = artifacts.require('FToken');
+const CardToken = artifacts.require('CardToken');
 const NFTMarketplace = artifacts.require('NFTMarketplace');
 
 module.exports = async function (deployer) {
